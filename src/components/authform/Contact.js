@@ -1,7 +1,7 @@
 import "./styles/contact.css";
 import TextField from "../forms/text-field/TextField";
 import SectionDescription from "../typography/SectionDescription";
-import ButtonPrimary from "../Buttons/ButtonPrimary";
+import ButtonPrimary from "../buttons/ButtonPrimary";
 import GapMd from "../gaps/GapMd";
 import TextareaField from "../forms/textarea-field/TextareaField";
 

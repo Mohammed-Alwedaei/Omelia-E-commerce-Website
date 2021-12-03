@@ -1,6 +1,6 @@
 import products from "../../data/products";
 import "./styles/products-grid.css";
-import ProductCard from "../Products/ProductCard";
+import ProductCard from "../products/ProductCard";
 
 export default function ProductsGrid({ productsNumber }) {
   return (

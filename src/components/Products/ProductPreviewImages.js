@@ -1,6 +1,6 @@
 import "./styles/product-preview-images.css";
-import ButtonPrimary from "../Buttons/ButtonPrimary";
-import AnchorSecondary from "../Buttons/AnchorSecondary";
+import ButtonPrimary from "../buttons/ButtonPrimary";
+import AnchorSecondary from "../buttons/AnchorSecondary";
 
 export default function ProductPreviewImages({ images, info }) {
   return (

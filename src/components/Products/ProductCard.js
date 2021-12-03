@@ -1,5 +1,5 @@
-import ButtonPrimary from "../Buttons/ButtonPrimary";
-import AnchorSecondary from "../Buttons/AnchorSecondary";
+import ButtonPrimary from "../buttons/ButtonPrimary";
+import AnchorSecondary from "../buttons/AnchorSecondary";
 
 import "./styles/product-card.css";
 

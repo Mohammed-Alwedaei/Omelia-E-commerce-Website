@@ -1,8 +1,8 @@
 import TagsContainer from "../components/tags/TagsContainer";
 import Tag from "../components/tags/Tag";
-import Masthead from "../components/Masthead/Masthead";
+import Masthead from "../components/masthead/Masthead";
 import GapMd from "../components/gaps/GapMd";
-import FilterGridContainer from "../components/FilteringGrid/FilterGridContainer";
+import FilterGridContainer from "../components/filtergrid/FilterGridContainer";
 import CallToAction from "../components/call-to-actions/CallToAction";
 import Catagories from "../components/catagories/Catagories";
 

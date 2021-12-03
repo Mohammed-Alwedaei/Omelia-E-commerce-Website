@@ -3,8 +3,8 @@ import TextField from "../forms/text-field/TextField";
 import SectionDesctription from "../typography/SectionDescription";
 
 import GapSm from "../gaps/GapSm";
-import ButtonPrimary from "../Buttons/ButtonPrimary";
-import AnchorSecondary from "../Buttons/AnchorSecondary";
+import ButtonPrimary from "../buttons/ButtonPrimary";
+import AnchorSecondary from "../buttons/AnchorSecondary";
 
 import "./styles/auth.css";
 

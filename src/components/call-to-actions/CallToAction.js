@@ -1,4 +1,4 @@
-import AnchorSecondary from "../Buttons/AnchorSecondary";
+import AnchorSecondary from "../buttons/AnchorSecondary";
 import "./styles/call-to-action.css";
 
 export default function CallToAction() {

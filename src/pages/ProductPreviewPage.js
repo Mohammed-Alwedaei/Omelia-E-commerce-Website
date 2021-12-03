@@ -1,7 +1,7 @@
-import ProductPreviewImages from "../components/Products/ProductPreviewImages";
+import ProductPreviewImages from "../components/products/ProductPreviewImages";
 import SectionDescription from "../components/typography/SectionDescription";
 
-import ProductCard from "../components/Products/ProductCard";
+import ProductCard from "../components/products/ProductCard";
 import ProductsContainer from "../components/Products/ProductsContainer";
 
 import GapMd from "../components/gaps/GapMd";

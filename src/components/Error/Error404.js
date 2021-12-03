@@ -1,4 +1,4 @@
-import AnchorPrimary from "../Buttons/AnchorPrimary";
+import AnchorPrimary from "../buttons/AnchorPrimary";
 
 import "./styles/error-404.css";
 

@@ -3,9 +3,9 @@ import CallToAction from "../components/call-to-actions/CallToAction";
 import Catagories from "../components/catagories/Catagories";
 import SectionDescription from "../components/typography/SectionDescription";
 
-import Masthead from "../components/Masthead/Masthead";
+import Masthead from "../components/masthead/Masthead";
 
-import ProductsContainer from "../components/Products/ProductsContainer";
+import ProductsContainer from "../components/products/ProductsContainer";
 
 import GapMd from "../components/gaps/GapMd";
 
