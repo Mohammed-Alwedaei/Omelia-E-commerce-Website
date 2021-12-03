@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## designed and developed by Mohammed Alwedaei
 
-This project is hosted on [Github Page](https://omelia-shop.netlify.app/)
+This project is hosted on [Netlify](https://omelia-shop.netlify.app/)
