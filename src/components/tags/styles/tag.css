@@ -1,0 +1,13 @@
+.tag {
+  padding: 1rem 0;
+  border: 2px solid #000;
+  color: #000;
+  text-align: center;
+  position: relative;
+  transition: all 1s ease-in;
+}
+
+.tag:hover {
+  background-color: #000;
+  color: #fff;
+}

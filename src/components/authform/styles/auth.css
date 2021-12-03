@@ -1,0 +1,16 @@
+.auth-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.auth-container h1 {
+  margin-bottom: 1rem;
+}
+
+.auth-container button {
+  width: 100%;
+  margin-bottom: 1rem;
+}

@@ -1,0 +1,17 @@
+.text-field {
+  margin-bottom: 2rem;
+}
+
+.text-field label {
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.text-field input {
+  height: 3rem;
+  display: block;
+  width: 400px;
+  outline: none;
+  font-size: 1rem;
+  padding-left: 1rem;
+}

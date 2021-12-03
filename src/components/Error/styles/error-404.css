@@ -1,0 +1,12 @@
+.error-404 {
+  text-align: center;
+}
+
+.error-404 h1 {
+  font-size: 5rem;
+}
+
+.error-404 p {
+  font-size: 1.3rem;
+  margin: 2rem 0;
+}

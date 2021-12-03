@@ -1,0 +1,17 @@
+.textarea-field {
+  margin-bottom: 2rem;
+}
+
+.textarea-field label {
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.textarea-field textarea {
+  width: 400px;
+  resize: vertical;
+  display: block;
+  outline: none;
+  font-size: 1rem;
+  padding: 1rem 0 0 1rem;
+}

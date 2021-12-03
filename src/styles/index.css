@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+::selection {
+  color: #fff;
+  background-color: #000;
+}
+
+.btn {
+  padding: 0.7rem 1.5rem;
+
+  border: 0;
+  cursor: pointer;
+}
+
+.btn a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.btn-box {
+  padding: 1rem;
+
+  border: 0;
+  cursor: pointer;
+}

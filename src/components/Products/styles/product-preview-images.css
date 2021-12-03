@@ -1,0 +1,28 @@
+.product-preview-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 3rem;
+}
+
+.product-preview-image img {
+  width: 100%;
+}
+
+.product-preview-desc h1 {
+  font-size: 5rem;
+  line-height: 1.2;
+}
+
+.product-preview-desc p,
+.product-preview-desc h3 {
+  margin: 2rem 0;
+}
+
+.product-preview-desc h3 {
+  font-size: 2rem;
+}
+
+.product-preview-desc-sticky {
+  position: sticky;
+  top: 10vh;
+}

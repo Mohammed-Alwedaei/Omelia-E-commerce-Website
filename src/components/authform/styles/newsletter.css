@@ -1,0 +1,17 @@
+.newsletter {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 50vh;
+}
+
+.newsletter p {
+  margin: 1rem 0;
+}
+
+.newsletter button {
+  width: 400px;
+}

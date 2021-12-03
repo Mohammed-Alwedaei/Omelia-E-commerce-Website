@@ -1,0 +1,32 @@
+.filter-grid-container {
+  display: grid;
+  grid-template-columns: 0.5fr 1.5fr;
+  gap: 3rem;
+}
+
+.filter-bar {
+  position: relative;
+}
+
+.inner-filter-bar {
+  position: sticky;
+  top: 3rem;
+}
+
+@media only screen and (max-width: 768px) {
+  .filter-grid-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1200px) {
+  .filter-grid-container {
+    grid-template-columns: 0fr 1.8fr;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .filter-grid-container {
+    grid-template-columns: 0.5fr 1.5fr;
+  }
+}
