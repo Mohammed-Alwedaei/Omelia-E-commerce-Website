@@ -30,33 +30,23 @@ export default [
     price: 180,
   },
   {
-    id: 9841,
-    image: {
-      src: "https://cdn.pixabay.com/photo/2018/03/01/14/57/portrait-3190849_960_720.jpg",
-      alt: "Yellow Jacket",
-    },
-    name: "Yello Coat",
-    description: "Luxuorious jacket design.",
-    price: 180,
-  },
-  {
     id: 5485,
     image: {
       src: "https://cdn.pixabay.com/photo/2016/03/23/08/34/woman-1274361_960_720.jpg",
       alt: "Yellow Jacket",
     },
-    name: "Yello Coat",
-    description: "Luxuorious jacket design.",
-    price: 180,
+    name: "Red/Blue Scarf",
+    description: "Feel warm by this scarf.",
+    price: 50,
   },
   {
     id: 1645,
     image: {
       src: "https://cdn.pixabay.com/photo/2016/12/29/02/37/winter-1937626_960_720.jpg",
-      alt: "Yellow Jacket",
+      alt: "Blue Jacket",
     },
-    name: "Yello Coat",
-    description: "Luxuorious jacket design.",
-    price: 180,
+    name: "Blue Jacket",
+    description: "A wearable jacket.",
+    price: 500,
   },
 ];
